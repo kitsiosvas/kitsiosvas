@@ -10,7 +10,6 @@ I'm a professional ML Engineer with experience developing production-grade AI sy
 
 - 🔬 Passionate about deep learning, MLOps, and AI infrastructure.
 - 🏎️ Previously at **Tesla**, where I worked on cutting-edge ML for real-world autonomy and data systems.
-- 📦 Open-source advocate and contributor.
 - 💡 Always optimizing—models, systems, and myself.
 
 ---
