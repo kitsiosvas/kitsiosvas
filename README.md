@@ -21,4 +21,3 @@ Languages:   Python · C++ · JavaScript · Bash
 Frameworks:  PyTorch · TensorFlow · FastAPI · HuggingFace · LangChain
 Infra/DevOps: Docker · Kubernetes · Redis · Ray · Kafka · DVC · MLflow
 Cloud:       AWS · GCP · Azure
-Other:       GitHub Actions · Terraform · Postgres · Airflow
