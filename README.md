@@ -1,7 +1,10 @@
 # Vasileios Kitsios
 ML Engineer · ex-Tesla
 
-Nobody reads these. Everyone just fills them with fancy words.  
+Nobody reads these. Everyone just lies with fancy/catchy bullshit words.
+
+Example: Built end-to-end production-grade scalable real-time computer vision and distributed deep learning systems with strong MLOps, model optimization, high-performance inference, and robust infrastructure ownership, ML, Agentic AI, LLMs, ML Ops.
+
 Go look at the code instead — that actually says something.
 
 <!--
